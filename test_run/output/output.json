@@ -1,0 +1,79 @@
+{
+    "Metadata": {
+        "Input documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "Persona": {
+            "role": "Travel Planner"
+        },
+        "Job to be done": {
+            "task": "Plan a trip of 4 days for a group of 10 college friends."
+        },
+        "Processing timestamp": "2025-07-28T17:47:28.904195Z"
+    },
+    "Extracted Section": [
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Section title": "The Ultimate South of France Travel Companion:...",
+            "Importance_rank": 1,
+            "Page number": 1
+        },
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Section title": "Tips and Tricks for Packing",
+            "Importance_rank": 2,
+            "Page number": 8
+        },
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Section title": "Packing for a trip to the South...",
+            "Importance_rank": 3,
+            "Page number": 9
+        },
+        {
+            "Document": "South of France - Things to Do.pdf",
+            "Section title": "Culinary Delights",
+            "Importance_rank": 4,
+            "Page number": 5
+        },
+        {
+            "Document": "South of France - Cities.pdf",
+            "Section title": "Airbus Factory Tours: Visit the Airbus factory...",
+            "Importance_rank": 5,
+            "Page number": 9
+        }
+    ],
+    "Sub-section Analysis": [
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Refined Text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and Exploring",
+            "Page Number": 1
+        },
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Refined Text": "Additional Tips: Plan your wine tour route in advance and consider hiring a driver or joining a guided tour to avoid drinking and driving.",
+            "Page Number": 8
+        },
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Refined Text": "Packing for a trip to the South of France involves considering the season, planned activities, and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience. Bon voyage!",
+            "Page Number": 9
+        },
+        {
+            "Document": "South of France - Tips and Tricks.pdf",
+            "Refined Text": "Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+            "Page Number": 8
+        },
+        {
+            "Document": "South of France - Things to Do.pdf",
+            "Refined Text": "Bordeaux: Take a day trip to the world-renowned wine region and visit its prestigious ch teaux.",
+            "Page Number": 5
+        }
+    ]
+}

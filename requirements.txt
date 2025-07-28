@@ -1,0 +1,12 @@
+# For semantic search and embeddings
+# Allow version 3.0+ to match modern model formats
+sentence-transformers>=3.0.0
+
+# PyTorch - ensure a modern version is used
+torch>=2.1.0
+
+# For fast PDF text extraction
+PyMuPDF>=1.22.0,<2.0.0
+
+# For numerical operations
+numpy>=1.24.1,<2.0.0
